@@ -1,0 +1,9 @@
+[submodule "ui-analyzer"]
+	path = ui-analyzer
+	url = https://github.com/dzrgln/ui-analyzer
+[submodule "emulator-sources"]
+	path = emulator-sources
+	url = https://github.com/dzrgln/emulator-sources
+[submodule "market-analyzer"]
+	path = market-analyzer
+	url = https://github.com/dzrgln/market-analyzer
